@@ -178,9 +178,3 @@ The application can be deployed using:
 # 👩‍💻 Developed By
 
 Nagaladoddi Mounika
-
----
-
-# 📜 License
-
-This project is licensed under the MIT License.
